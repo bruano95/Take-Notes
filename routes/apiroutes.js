@@ -28,4 +28,6 @@ router.post('/notes', (req, res) => {
     res.json(notes)
 })
 
+// router.delete
+
 module.exports = router
