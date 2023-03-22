@@ -21,7 +21,7 @@
   ### First, the user is prompeted with a start screen. After beginning the application they are directed to the notes page. Here, the user can write a title for the note and the index desired. The user can now save the note with the button on the top right of the page. Next to this button the user can add a new note. The user access this page through a heroku application link.  
   
   ## LICENSE
-  ### BSD
+  ### N/A
 
   ## CONTRIBUTION
   ### Developer: Brandon Ruano
@@ -32,5 +32,5 @@
 
   ## Questions
   ### If additional questions arise please reach out to:
-  ### github.com/bruano95
+  ### github.com/bruano95 
   ### bruano@uw.edu
